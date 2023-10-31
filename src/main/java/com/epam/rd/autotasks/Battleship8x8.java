@@ -95,5 +95,4 @@ public class Battleship8x8 {
         }
         return str;
     }
-
 }
